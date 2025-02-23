@@ -2,7 +2,7 @@
 
 Astronomers have discovered the largest known structure in the universe, called Quipu. This enormous superstructure stretches over 1.3 billion light-years and contains 200 quadrillion solar masses. Source: Hans Böhringer et al, Arxiv, 2025.
 <div align="center">
-<img src="/images/estructura-mas-grande-universo-quipu-1739079916541_512.jpeg  />
+<img src="https://github.com/Galactic-Code-Developers/Quipu-Superstructure/blob/25a4dce474c2a20422f015604e893bfc91b8e0b7/images/estructura-mas-grande-universo-quipu-1739079916541_512.jpeg"/>
 </div>
 <!--
 
