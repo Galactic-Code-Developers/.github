@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-The image shows the 5 superstructures Quipu $${\color{red}Red}$$, Shapley (blue), Serpens-Corona Borealis (green), Hercules (yellow), and Sculptor-Pegasus (purple) superclusters 
+The image shows the 5 superstructures $${\color{red}Quipu}$$, Shapley (blue), $${\color{green}Serpens-Corona Borealis}$$, $${\color{yellow}Hercules}$$, and $${\color{purple}Sculptor-Pegasus}$$ superclusters 
 
 Astronomers have discovered the largest known structure in the universe, called Quipu. This enormous superstructure stretches over 1.3 billion light-years and contains 200 quadrillion solar masses. Source: Hans Böhringer et al, Arxiv, 2025. 
 <div align="center">
