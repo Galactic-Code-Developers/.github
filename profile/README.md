@@ -16,3 +16,8 @@ Astronomers have discovered the largest known structure in the universe, called 
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+## License
+
+[![Creative Commons License](<https://i.creativecommons.org/l/by/4.0/88x31.png>)](https://creativecommons.org/licenses/by/4.0/)
+
+Copyright © 2019-2025 [Galactic Code Developers](<https://gist.github.com/ChrisTollefson/](https://github.com/Galactic-Code-Developers>)
